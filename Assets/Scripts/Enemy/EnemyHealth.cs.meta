@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a9b9d14572410594cb85d40eedfb150c
+timeCreated: 1455646327
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - deathClip: {instanceID: 0}
+  - Loot: {fileID: 199042, guid: 95e73b4a8a0bdc649967e9aeb6ea74b9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
